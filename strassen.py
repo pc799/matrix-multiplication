@@ -1,9 +1,6 @@
 """
 Program type: Python 3.6.5
 Program name: Stassen's matrix multiplication.
-Author      : Praveen Raj
-Reg. no     : 201700350
-Roll no     : 47
 Sub. Date   : 16-03-2019
 """
 import random as r
